@@ -1,1 +1,2 @@
 ls-listar arquivos.
+git push origin main- enviando para o github

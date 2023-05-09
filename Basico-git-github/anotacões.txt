@@ -1,2 +1,6 @@
 ls-listar arquivos.
 git push origin main- enviando para o github
+cd - mover para pasta
+git add - adicionar ao palco
+git commit - salvar alteração
+
